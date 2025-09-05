@@ -1,0 +1,2 @@
+# EQ
+My EQ settings
